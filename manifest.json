@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Calcus",
+  "version": "1.2",
+  "description": "Простой калькулятор для chrome",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "calc16.png",
+      "48": "calc48.png",
+      "128": "calc128.png"
+    }
+  },
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "calc16.png",
+    "48": "calc48.png",
+    "128": "calc128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "calc16.png",
+      "48": "calc48.png",
+      "128": "calc128.png"
+    }
+  }
+}
